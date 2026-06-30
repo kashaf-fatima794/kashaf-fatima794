@@ -15,7 +15,6 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="28px" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28px" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" height="28px" />
   <space>
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="28px" />
@@ -38,7 +37,7 @@
 
 ### 📈 Coding Activity
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=react-dark&bg_color=0d1117&color=FF3366&line=FF3366&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashaf-fatima794&theme=react-dark&bg_color=0d1117&color=FF3366&line=FF3366&point=ffffff" width="100%" />
 </p>
 
 ---
