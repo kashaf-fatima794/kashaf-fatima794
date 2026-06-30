@@ -1,4 +1,4 @@
-#  Kashaf Fatima
+#  Hiiiii!! I'm Kashaf Fatima
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Backend%20Developer-FF3366?style=for-the-badge&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📂 Projects Pipeline
+###  Projects Pipeline
 
 *   **Docx to PDF Converter**  
     *Built a functional microservice with Django REST Framework for seamless file handling and document conversion.*
@@ -35,12 +35,13 @@
 
 ---
 
-### 📈 Coding Activity
+###  Coding Activity
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashaf-fatima794&theme=react-dark&bg_color=0d1117&color=FF3366&line=FF3366&point=ffffff" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connect
-👉 **[LinkedIn](YOUR_LINKEDIN_URL_HERE)**
+###  Connect
+ **[LinkedIn] www.linkedin.com/in/kashaf-fatima-044475413 **
+ **[Instagram (art)] [www.linkedin.com/in/kashaf-fatima-044475413](https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t) **
