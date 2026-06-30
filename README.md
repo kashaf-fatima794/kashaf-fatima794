@@ -1,190 +1,106 @@
-# 🌙 Hi, I'm Kashaf Fatima
+# Hi, I'm Kashaf Fatima!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Python+%26+Django+Enthusiast;Machine+Learning+Learner;Digital+Artist+%F0%9F%8E%A8" />
+### Computer Science Student • Backend Developer • Digital Artist
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-</p>
+I'm a Computer Science student at Minhaj University Lahore with a growing passion for backend development, REST APIs, and Machine Learning. I enjoy building practical applications that solve real-world problems while continuously improving my skills as a software developer.
+
+Beyond programming, I express my creativity through digital illustration using Krita and ibisPaint, believing that both art and software development are different forms of creative problem-solving.
 
 ---
 
-## ✨ About Me
+## 💻 About Me
 
-```python
-class KashafFatima:
-
-    education = "BS Computer Science (Semester 4)"
-    university = "Minhaj University Lahore"
-
-    languages = [
-        "Python",
-        "C++"
-    ]
-
-    backend = [
-        "Django",
-        "Django REST Framework"
-    ]
-
-    learning = [
-        "Machine Learning",
-        "Deployment",
-        "Advanced Django"
-    ]
-
-    hobbies = [
-        "Digital Art",
-        "Character Design",
-        "Miniatures",
-        "Dolls",
-        "Gaming"
-    ]
-
-    motto = "Build beautiful things with both logic and creativity."
-```
+* 🎓 **Education:** BS Computer Science (4th Semester), Minhaj University Lahore
+* 💼 **Interests:** Backend Development, REST APIs, Machine Learning, and Python Applications
+* 🐍 **Languages:** Python and C++
+* 🌱 **Currently Learning:** Advanced Django, API Design, Deployment, and Machine Learning
+* 🎨 **Creative Side:** Digital Illustration using Krita and ibisPaint
 
 ---
 
-# 💜 What I Love Building
-
-🛠 REST APIs
-
-⚡ Backend Systems
-
-📊 Machine Learning Projects
-
-🎨 Creative Python Applications
-
-🌐 Web Services
-
----
-
-# 🚀 Featured Projects
-
-## 📄 Docx → PDF Converter
-
-A Django REST Framework microservice that converts Word documents into PDF files with seamless API integration and efficient file handling.
-
-**Tech Stack**
-
-`Python`
-`Django`
-`DRF`
-`docx2pdf`
-
----
-
-## 🎨 Celeste's Canvas
-
-A desktop sketchbook built using Python and Tkinter.
-
-### Features
-
-✨ Brush Tool
-
-🎨 Color Picker
-
-↩ Undo
-
-💾 Save Artwork
-
-📖 Page Switching
-
-🖌 Smooth Drawing Experience
-
----
-
-# 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-
-![C++](https://skillicons.dev/icons?i=cpp)
+* Python
+* C++
 
 ### Backend
 
-![Django](https://skillicons.dev/icons?i=django)
+* Django
+* Django REST Framework (DRF)
+
+### Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+
+### Desktop Development
+
+* Tkinter
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-
-![Github](https://skillicons.dev/icons?i=github)
-
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Git
+* GitHub
+* Cisco Packet Tracer
+* Krita
+* ibisPaint
 
 ---
 
-<p align="center">
+## 📂 Featured Projects
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+### Docx to PDF Converter Microservice
 
-</p>
+A RESTful microservice built with Django REST Framework that converts Microsoft Word documents into high-quality PDF files. The project focuses on efficient file handling, clean API design, and seamless document conversion.
+
+**Tech Stack:** Python • Django • Django REST Framework • docx2pdf
 
 ---
 
-# 🌸 Currently Exploring
+### Celeste's Canvas
 
-* Django Deployment
+A desktop sketchbook application developed with Python and Tkinter, designed to provide a simple and enjoyable digital drawing experience.
 
-* API Security
+**Key Features**
 
+* Multiple brush sizes
+* Color selection tools
+* Undo functionality
+* Save artwork locally
+* Smooth drawing interface
+
+---
+
+## 📚 Currently Exploring
+
+* Backend Architecture
+* REST API Best Practices
 * Machine Learning
-
-* Frontend Integration
-
-* Full Stack Development
+* Deployment & Production Workflows
+* Open Source Development
 
 ---
 
-# 🎮 Outside Coding
+## 📊 GitHub Stats
 
-🎨 Digital Art
-
-🧸 Miniatures
-
-🩷 Dolls
-
-🎮 Genshin Impact
-
-🚂 Honkai: Star Rail
-
-🌌 Identity V
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/kashaf-fatima-044475413
-
-🎨 Instagram
-
-https://www.instagram.com/celestee_art__
-
----
-
-<p align="center">
-
-### 🌙 "Every project begins as an idea and becomes a story through code."
-
-⭐ Thanks for visiting my profile!
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Commits-48-f43f5e?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python%20%26%20C%2B%2B-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
+---
+
+## 🤝 Connect with Me
+
+* **LinkedIn:** [www.linkedin.com/in/kashaf-fatima-044475413](http://www.linkedin.com/in/kashaf-fatima-044475413)
+* **Instagram (Art):** https://www.instagram.com/celestee_art__
+* **Location:** Lahore, Pakistan
+
+---
+
+> *"I enjoy building software that is both practical and thoughtfully designed—combining logic, creativity, and continuous learning in every project."*
