@@ -45,4 +45,4 @@
 ###  Connect
 LinkedIn : www.linkedin.com/in/kashaf-fatima-044475413 
  
-Instagram (art) : [www.linkedin.com/in/kashaf-fatima-044475413](https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t) **
+Instagram (art) : https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t
