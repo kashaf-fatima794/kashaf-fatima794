@@ -35,7 +35,7 @@ A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kashaf-fatima794&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=dark&background=0d1117&ring=f43f5e&fire=f43f5e" alt="GitHub Streak Stats" />
 </p>
 
 ---
