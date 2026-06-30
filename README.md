@@ -35,7 +35,9 @@ A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=dark&background=0d1117&ring=f43f5e&fire=f43f5e" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Total%20Commits-48-f43f5e?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python%20%26%20C%2B%2B-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/Current%20Location-Lahore%2C%20PK-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
