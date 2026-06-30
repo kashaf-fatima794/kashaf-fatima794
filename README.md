@@ -1,48 +1,190 @@
-# Hiiiiiiii, I'm Kashaf Fatima!
-### Computer Science Student & Backend Developer
+# 🌙 Hi, I'm Kashaf Fatima
 
-A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS in Computer Science (4th Semester) at Minhaj University Lahore. I love building efficient backend systems, working with APIs, and diving into Machine Learning solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Python+%26+Django+Enthusiast;Machine+Learning+Learner;Digital+Artist+%F0%9F%8E%A8" />
 
----
-
-### 💻 About Me
--  **Education:** BS Computer Science at Minhaj University Lahore (Semester 4)
--  **Focus:** Backend Engineering, API Development, and Machine Learning , Digital Art
--  **Preference:** I love to do programming in C++ , but love the versatility of Python for university and modern web projects.
-- 🎨 **Other Interests:** When I'm not coding or configuring networks, I love to do digital art, character design, and creating original character (OC) illustrations.
-
----
-
-###  Tech Stack & Skills
-
-- **Languages:** C++, Python
-- **Backend & APIs:** Django, Django REST Framework (DRF)
-- **Data Science & ML:** NumPy, Pandas, Scikit-Learn , matplotlib , Tkinter 
-- **Tools & Software:** Cisco Packet Tracer, Git & GitHub , Ibispaint , krita
-
----
-
-###  Featured Projects
-
-📂 **Docx to PDF Converter Microservice**
-- A functional web service built using Django REST Framework and the `docx2pdf` library to convert Word documents into high-quality PDFs with seamless file handling.
-
-📂 **Celeste's Canvas (Sketchbook Application)**
-- A creative desktop sketchbook application developed using Python and Tkinter, featuring custom brush tools, undo functionality, and smooth page-flipping animations.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Commits-48-f43f5e?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Main%20Language-Python%20%26%20C%2B%2B-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/Current%20Location-Lahore%2C%20PK-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/kashaf-fatima-044475413
-- **Instagram:** https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t
-- **Location:** Lahore, Pakistan
+## ✨ About Me
+
+```python
+class KashafFatima:
+
+    education = "BS Computer Science (Semester 4)"
+    university = "Minhaj University Lahore"
+
+    languages = [
+        "Python",
+        "C++"
+    ]
+
+    backend = [
+        "Django",
+        "Django REST Framework"
+    ]
+
+    learning = [
+        "Machine Learning",
+        "Deployment",
+        "Advanced Django"
+    ]
+
+    hobbies = [
+        "Digital Art",
+        "Character Design",
+        "Miniatures",
+        "Dolls",
+        "Gaming"
+    ]
+
+    motto = "Build beautiful things with both logic and creativity."
+```
+
+---
+
+# 💜 What I Love Building
+
+🛠 REST APIs
+
+⚡ Backend Systems
+
+📊 Machine Learning Projects
+
+🎨 Creative Python Applications
+
+🌐 Web Services
+
+---
+
+# 🚀 Featured Projects
+
+## 📄 Docx → PDF Converter
+
+A Django REST Framework microservice that converts Word documents into PDF files with seamless API integration and efficient file handling.
+
+**Tech Stack**
+
+`Python`
+`Django`
+`DRF`
+`docx2pdf`
+
+---
+
+## 🎨 Celeste's Canvas
+
+A desktop sketchbook built using Python and Tkinter.
+
+### Features
+
+✨ Brush Tool
+
+🎨 Color Picker
+
+↩ Undo
+
+💾 Save Artwork
+
+📖 Page Switching
+
+🖌 Smooth Drawing Experience
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+
+![C++](https://skillicons.dev/icons?i=cpp)
+
+### Backend
+
+![Django](https://skillicons.dev/icons?i=django)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+
+![Github](https://skillicons.dev/icons?i=github)
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌸 Currently Exploring
+
+* Django Deployment
+
+* API Security
+
+* Machine Learning
+
+* Frontend Integration
+
+* Full Stack Development
+
+---
+
+# 🎮 Outside Coding
+
+🎨 Digital Art
+
+🧸 Miniatures
+
+🩷 Dolls
+
+🎮 Genshin Impact
+
+🚂 Honkai: Star Rail
+
+🌌 Identity V
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/kashaf-fatima-044475413
+
+🎨 Instagram
+
+https://www.instagram.com/celestee_art__
+
+---
+
+<p align="center">
+
+### 🌙 "Every project begins as an idea and becomes a story through code."
+
+⭐ Thanks for visiting my profile!
+
+</p>
