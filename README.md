@@ -97,8 +97,8 @@ A desktop sketchbook application developed with Python and Tkinter, designed to 
 
 ## 🤝 Connect with Me
 
-* **LinkedIn:** [www.linkedin.com/in/kashaf-fatima-044475413](http://www.linkedin.com/in/kashaf-fatima-044475413)
-* **Instagram (Art):** https://www.instagram.com/celestee_art__
+* **LinkedIn:** www.linkedin.com/in/kashaf-fatima-044475413
+* **Instagram (Art):** https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t
 * **Location:** Lahore, Pakistan
 
 ---
