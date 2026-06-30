@@ -6,14 +6,14 @@ A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS 
 ---
 
 ### 💻 About Me
-- 🎓 **Education:** BS Computer Science at Minhaj University Lahore (Semester 4)
-- 🚀 **Focus:** Backend Engineering, API Development, and Machine Learning , Digital Art
-- 🧠 **Preference:** I love to do programming in C++ , but love the versatility of Python for university and modern web projects.
+-  **Education:** BS Computer Science at Minhaj University Lahore (Semester 4)
+-  **Focus:** Backend Engineering, API Development, and Machine Learning , Digital Art
+-  **Preference:** I love to do programming in C++ , but love the versatility of Python for university and modern web projects.
 - 🎨 **Other Interests:** When I'm not coding or configuring networks, I love to do digital art, character design, and creating original character (OC) illustrations.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 - **Languages:** C++, Python
 - **Backend & APIs:** Django, Django REST Framework (DRF)
@@ -22,7 +22,7 @@ A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 📂 **Docx to PDF Converter Microservice**
 - A functional web service built using Django REST Framework and the `docx2pdf` library to convert Word documents into high-quality PDFs with seamless file handling.
@@ -35,7 +35,7 @@ A passionate Software Developer from Lahore, Pakistan, currently pursuing my BS 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Kashaf's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kashaf-fatima794&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
