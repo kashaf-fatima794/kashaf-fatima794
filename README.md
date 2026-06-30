@@ -18,7 +18,7 @@ Beyond programming, I express my creativity through digital illustration using K
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
