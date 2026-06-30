@@ -1,4 +1,4 @@
-# Hi, I'm Kashaf Fatima!
+# Hiiiiii, I'm Kashaf Fatima!
 
 ### Computer Science Student • Backend Developer • Digital Artist
 
@@ -8,13 +8,13 @@ Beyond programming, I express my creativity through digital illustration using K
 
 ---
 
-## 💻 About Me
+## About Me
 
-* 🎓 **Education:** BS Computer Science (4th Semester), Minhaj University Lahore
-* 💼 **Interests:** Backend Development, REST APIs, Machine Learning, and Python Applications
-* 🐍 **Languages:** Python and C++
-* 🌱 **Currently Learning:** Advanced Django, API Design, Deployment, and Machine Learning
-* 🎨 **Creative Side:** Digital Illustration using Krita and ibisPaint
+*  **Education:** BS Computer Science (4th Semester), Minhaj University Lahore
+*  **Interests:** Backend Development, REST APIs, Machine Learning, and Python Applications
+*  **Languages:** Python and C++
+*  **Currently Learning:** Advanced Django, API Design, Deployment, and Machine Learning
+*  **Creative Side:** Digital Illustration using Krita and ibisPaint
 
 ---
 
@@ -51,7 +51,7 @@ Beyond programming, I express my creativity through digital illustration using K
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### Docx to PDF Converter Microservice
 
@@ -75,7 +75,7 @@ A desktop sketchbook application developed with Python and Tkinter, designed to 
 
 ---
 
-## 📚 Currently Exploring
+##  Currently Exploring
 
 * Backend Architecture
 * REST API Best Practices
