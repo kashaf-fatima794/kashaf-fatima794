@@ -1,106 +1,128 @@
-# Hiiiiii, I'm Kashaf Fatima!
+```md
+<div align="center">
 
-### Computer Science Student • Backend Developer • Digital Artist
+# Kashaf Fatima
 
-I'm a Computer Science student at Minhaj University Lahore with a growing passion for backend development, REST APIs, and Machine Learning. I enjoy building practical applications that solve real-world problems while continuously improving my skills as a software developer.
+### Backend Developer • Digital Illustrator
 
-Beyond programming, I express my creativity through digital illustration using Krita and ibisPaint, believing that both art and software development are different forms of creative problem-solving.
+*Building software with logic. Creating art with imagination.*
 
----
+<br>
 
-## About Me
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)]()
+[![Django REST Framework](https://img.shields.io/badge/DRF-EE4C2C?style=for-the-badge)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)]()
 
-*  **Education:** BS Computer Science (4th Semester), Minhaj University Lahore
-*  **Interests:** Backend Development, REST APIs, Machine Learning, and Python Applications
-*  **Languages:** Python and C++
-*  **Currently Learning:** Advanced Django, API Design, Deployment, and Machine Learning
-*  **Creative Side:** Digital Illustration using Krita and ibisPaint
-
----
-
-##  Tech Stack
-
-### Languages
-
-* Python
-* C++
-
-### Backend
-
-* Django
-* Django REST Framework (DRF)
-
-### Data Science & Machine Learning
-
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
-
-### Desktop Development
-
-* Tkinter
-
-### Tools
-
-* Git
-* GitHub
-* Cisco Packet Tracer
-* Krita
-* ibisPaint
+</div>
 
 ---
 
-## Featured Projects
+# 💜 About
 
-### Docx to PDF Converter Microservice
+I'm a Computer Science student at **Minhaj University Lahore** with a strong interest in **Backend Development**, **REST APIs**, and **Machine Learning**.
 
-A RESTful microservice built with Django REST Framework that converts Microsoft Word documents into high-quality PDF files. The project focuses on efficient file handling, clean API design, and seamless document conversion.
+I enjoy building practical software that solves real-world problems while continuously improving my technical skills.
 
-**Tech Stack:** Python • Django • Django REST Framework • docx2pdf
-
----
-
-### Celeste's Canvas
-
-A desktop sketchbook application developed with Python and Tkinter, designed to provide a simple and enjoyable digital drawing experience.
-
-**Key Features**
-
-* Multiple brush sizes
-* Color selection tools
-* Undo functionality
-* Save artwork locally
-* Smooth drawing interface
+Alongside programming, I create digital illustrations using **Krita** and **ibisPaint**. Working in both development and art has taught me to value creativity, clean design, and attention to detail.
 
 ---
 
-##  Currently Exploring
+# 🛠 Toolbox
 
-* Backend Architecture
-* REST API Best Practices
-* Machine Learning
-* Deployment & Production Workflows
-* Open Source Development
+| Backend | Programming | Machine Learning | Creative | Tools |
+|:--------:|:----------:|:----------------:|:--------:|:-----:|
+| Django | Python | NumPy | Krita | Git |
+| Django REST Framework | C++ | Pandas | ibisPaint | GitHub |
+| REST APIs | | Scikit-learn | Digital Illustration | VS Code |
+| | | Matplotlib | | Cisco Packet Tracer |
 
 ---
 
-## 📊 GitHub Stats
+# ✨ Selected Work
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Commits-48-f43f5e?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Main%20Language-Python%20%26%20C%2B%2B-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+## 🎨 Celeste's Canvas
+
+A desktop sketchbook application developed with **Python** and **Tkinter**, focused on providing a lightweight and enjoyable drawing experience.
+
+**Highlights**
+
+- Custom Brush Tools
+- Undo Support
+- Save Artwork
+- Color Picker
+- Smooth Drawing Experience
+
+**Tech Stack**
+
+`Python` • `Tkinter`
+
+---
+
+## 📄 Docx → PDF Converter
+
+A microservice built with **Django REST Framework** that converts Microsoft Word documents into high-quality PDF files through a clean REST API.
+
+**Highlights**
+
+- REST API
+- File Upload & Processing
+- Word to PDF Conversion
+- Clean Backend Architecture
+
+**Tech Stack**
+
+`Python` • `Django` • `DRF` • `docx2pdf`
+
+---
+
+# 🌱 Currently Exploring
+
+- Backend Architecture
+- API Design
+- Deployment
+- Machine Learning
+- Open Source
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🌐 Connect
 
-* **LinkedIn:** www.linkedin.com/in/kashaf-fatima-044475413
-* **Instagram (Art):** https://www.instagram.com/celestee_art__?igsh=ZTNkcjJ6MWUxZm1t
-* **Location:** Lahore, Pakistan
+**LinkedIn**
+
+https://www.linkedin.com/in/kashaf-fatima-044475413
+
+**Instagram (Artwork)**
+
+https://www.instagram.com/celestee_art__
+
+📍 Lahore, Pakistan
 
 ---
 
-> *"I enjoy building software that is both practical and thoughtfully designed—combining logic, creativity, and continuous learning in every project."*
+<div align="center">
+
+### Thanks for stopping by!
+
+*Always learning. Always building. Always creating.*
+
+</div>
+```
