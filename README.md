@@ -1,7 +1,7 @@
 
 # Hi, I'm Kashaf Fatima!
 
-**Computer Science Student | Backend Developer**
+**Computer Science Student**
 
 Computer Science student interested in backend development, machine learning, and creative technology.
 
@@ -15,14 +15,8 @@ Computer Science student interested in backend development, machine learning, an
 ### Projects
 
 - **Docx to PDF Converter** — A document conversion API built with Django REST Framework.
-- **Celeste's Canvas** — A desktop sketchbook application built with Python and Tkinter.
-- **Vanguard Tech Solutions** — Network architecture using VLANs and RIP routing.
-
-### Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
+- **Celeste's Canvas** — A web sketchbook application built with Python and Tkinter.
+- **blink voice** — A system mainly build for paralyzed people with machine learning concepts.
 
 ### Connect With Me
 
